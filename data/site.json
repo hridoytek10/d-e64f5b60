@@ -1,0 +1,298 @@
+{
+  "siteTitle": "Dr. Sarah Johnson - Professional Medical Care",
+  "siteDescription": "Award-winning physician providing comprehensive healthcare services",
+  "header": {
+    "logo": "Dr. Sarah Johnson",
+    "navigation": [
+      {
+        "label": "Home",
+        "href": "#hero"
+      },
+      {
+        "label": "About",
+        "href": "#about"
+      },
+      {
+        "label": "Services",
+        "href": "#services"
+      },
+      {
+        "label": "Education",
+        "href": "#education"
+      },
+      {
+        "label": "Reviews",
+        "href": "#reviews"
+      },
+      {
+        "label": "Clinic",
+        "href": "#clinic"
+      },
+      {
+        "label": "FAQ",
+        "href": "#faq"
+      }
+    ],
+    "cta": {
+      "call": "Call Now",
+      "callHref": "tel:+1-555-123-4567",
+      "book": "Book Appointment",
+      "bookHref": "#contact"
+    }
+  },
+  "hero": {
+    "title": "Welcome to Professional Medical Care",
+    "subtitle": "Expert healthcare with a personal touch",
+    "description": "Dr. Sarah Johnson brings 15+ years of medical excellence and patient-centered care to every consultation.",
+    "image": "/profile.jpg",
+    "cta": "Schedule Your Appointment",
+    "stats": [
+      {
+        "number": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "number": "5,000+",
+        "label": "Happy Patients"
+      },
+      {
+        "number": "98%",
+        "label": "Patient Satisfaction"
+      }
+    ]
+  },
+  "about": {
+    "title": "About Dr. Sarah Johnson",
+    "description": "With a passion for preventive medicine and patient wellness, Dr. Johnson combines traditional medical expertise with modern treatment approaches. Her compassionate care and attention to detail have earned her recognition as one of the region's most trusted physicians.",
+    "highlights": [
+      "Board-certified internist and family medicine specialist",
+      "Specializes in preventive care and chronic disease management",
+      "Fluent in English and Spanish",
+      "Active member of the American Medical Association"
+    ]
+  },
+  "services": [
+    {
+      "id": 1,
+      "title": "General Checkup",
+      "description": "Comprehensive annual health assessments and routine check-ups",
+      "icon": "Heart"
+    },
+    {
+      "id": 2,
+      "title": "Preventive Care",
+      "description": "Proactive health screening and wellness programs",
+      "icon": "Shield"
+    },
+    {
+      "id": 3,
+      "title": "Chronic Disease",
+      "description": "Long-term management of diabetes, hypertension, and more",
+      "icon": "Activity"
+    },
+    {
+      "id": 4,
+      "title": "Vaccinations",
+      "description": "Up-to-date immunizations for all ages",
+      "icon": "Syringe"
+    },
+    {
+      "id": 5,
+      "title": "Minor Procedures",
+      "description": "In-office treatments and wound care",
+      "icon": "Bandage"
+    },
+    {
+      "id": 6,
+      "title": "Telemedicine",
+      "description": "Virtual consultations for your convenience",
+      "icon": "Video"
+    }
+  ],
+  "education": [
+    {
+      "year": "2009",
+      "degree": "M.D.",
+      "institution": "Harvard Medical School",
+      "details": "Doctor of Medicine with distinction in Internal Medicine"
+    },
+    {
+      "year": "2012",
+      "degree": "Board Certification",
+      "institution": "American Board of Internal Medicine",
+      "details": "Certified in Internal Medicine and Family Medicine"
+    },
+    {
+      "year": "2015",
+      "degree": "Fellowship",
+      "institution": "Mayo Clinic",
+      "details": "Advanced fellowship in preventive medicine"
+    },
+    {
+      "year": "2019",
+      "degree": "Advanced Certification",
+      "institution": "American Academy of Family Physicians",
+      "details": "Master certification in patient-centered care"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "name": "John Martinez",
+      "rating": 5,
+      "text": "Dr. Johnson is absolutely wonderful. She takes time to listen and always explains things clearly. I feel truly cared for.",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "name": "Emily Chen",
+      "rating": 5,
+      "text": "Best doctor I've ever had. Professional, kind, and genuinely interested in my health. Highly recommended!",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "name": "David Thompson",
+      "rating": 5,
+      "text": "Exceptional care. Dr. Johnson helped me manage my diabetes better than any doctor I've seen before.",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "name": "Lisa Anderson",
+      "rating": 5,
+      "text": "Very thorough and attentive. The entire experience from scheduling to appointment was smooth and professional.",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "name": "Michael Ross",
+      "rating": 5,
+      "text": "Dr. Johnson's bedside manner is impeccable. She makes you feel like your health is her top priority.",
+      "verified": true
+    }
+  ],
+  "clinic": {
+    "name": "Johnson Medical Clinic",
+    "address": "123 Healthcare Avenue, Medical City, MC 12345",
+    "phone": "+1 (555) 123-4567",
+    "email": "info@johnsonmedical.com",
+    "hours": [
+      {
+        "day": "Monday - Friday",
+        "time": "9:00 AM - 5:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "time": "10:00 AM - 2:00 PM"
+      },
+      {
+        "day": "Sunday",
+        "time": "Closed"
+      }
+    ],
+    "amenities": [
+      "Accessible parking",
+      "Modern treatment facilities",
+      "Digital health records",
+      "On-site lab services"
+    ]
+  },
+  "faq": [
+    {
+      "id": 1,
+      "question": "Do I need insurance to schedule an appointment?",
+      "answer": "We accept most major insurance plans. If you're uninsured, we offer flexible payment plans and sliding scale fees. Please call to discuss your specific situation."
+    },
+    {
+      "id": 2,
+      "question": "What should I bring to my first appointment?",
+      "answer": "Please bring a valid ID, insurance card, and any medical records from previous providers. Complete our new patient form online to save time."
+    },
+    {
+      "id": 3,
+      "question": "How long are typical appointments?",
+      "answer": "Initial consultations are 45 minutes. Follow-up visits are typically 30 minutes. This ensures Dr. Johnson has adequate time for your care."
+    },
+    {
+      "id": 4,
+      "question": "Can I schedule appointments online?",
+      "answer": "Yes, you can book appointments through our website. For urgent matters, call us directly at (555) 123-4567."
+    },
+    {
+      "id": 5,
+      "question": "Do you offer telemedicine appointments?",
+      "answer": "Yes, we offer secure video consultations for established patients. This is perfect for follow-ups and minor concerns."
+    }
+  ],
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Have a question or ready to book an appointment?",
+    "formFields": [
+      {
+        "name": "name",
+        "type": "text",
+        "placeholder": "Your Full Name",
+        "required": true
+      },
+      {
+        "name": "email",
+        "type": "email",
+        "placeholder": "your@email.com",
+        "required": true
+      },
+      {
+        "name": "phone",
+        "type": "tel",
+        "placeholder": "(555) 123-4567",
+        "required": true
+      },
+      {
+        "name": "subject",
+        "type": "text",
+        "placeholder": "Reason for Contact",
+        "required": true
+      },
+      {
+        "name": "message",
+        "type": "textarea",
+        "placeholder": "Tell us more...",
+        "required": true
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2024 Dr. Sarah Johnson Medical Clinic. All rights reserved.",
+    "links": [
+      {
+        "label": "Privacy Policy",
+        "href": "#"
+      },
+      {
+        "label": "Terms of Service",
+        "href": "#"
+      },
+      {
+        "label": "Contact",
+        "href": "#contact"
+      }
+    ],
+    "social": [
+      {
+        "platform": "facebook",
+        "url": "#",
+        "icon": "Facebook"
+      },
+      {
+        "platform": "twitter",
+        "url": "#",
+        "icon": "Twitter"
+      },
+      {
+        "platform": "linkedin",
+        "url": "#",
+        "icon": "Linkedin"
+      }
+    ]
+  }
+}
