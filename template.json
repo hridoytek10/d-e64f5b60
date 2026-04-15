@@ -1,0 +1,37 @@
+{
+  "id": "doctor-profile-landing",
+  "name": "Doctor Profile Landing Page",
+  "description": "Modern, professional doctor profile landing page with animated buttons, appointment booking, and patient reviews.",
+  "version": "1.0.0",
+  "category": "healthcare",
+  "author": "v0",
+  "preview": "/preview.png",
+  "thumbnail": "/preview.png",
+  "requiredFields": [
+    "siteTitle",
+    "siteDescription",
+    "header.logo",
+    "hero.title",
+    "hero.description"
+  ],
+  "features": [
+    "Responsive design",
+    "Cute animated buttons",
+    "Patient testimonials",
+    "Service showcase",
+    "Education timeline",
+    "FAQ section",
+    "Contact form",
+    "Clinic information"
+  ],
+  "colors": {
+    "primary": "#14b8a6",
+    "secondary": "#0891b2",
+    "background": "#ffffff",
+    "text": "#0f172a"
+  },
+  "seo": {
+    "keywords": "doctor, medical, healthcare, clinic, physician",
+    "ogImage": "/preview.png"
+  }
+}
